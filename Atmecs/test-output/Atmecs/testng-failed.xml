@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Atmecs]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Atmecs Web Page Test Cases(failed)">
+    <classes>
+      <class name="com.atmecs.qa.testscripts.WebinarsTest">
+        <methods>
+          <include name="getBrowser"/>
+          <include name="testWebinars"/>
+        </methods>
+      </class> <!-- com.atmecs.qa.testscripts.WebinarsTest -->
+    </classes>
+  </test> <!-- Atmecs Web Page Test Cases(failed) -->
+</suite> <!-- Failed suite [Atmecs] -->

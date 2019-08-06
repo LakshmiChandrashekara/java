@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Atmecs">
+	<test  name="Atmecs Web Page Test Cases">
+		<classes>
+			<class name="com.atmecs.qa.testscripts.InsightsTest"></class>
+			<class name="com.atmecs.qa.testscripts.CaseStudiesTest"></class>
+			<class name="com.atmecs.qa.testscripts.BlogsTest"></class>
+			<class name="com.atmecs.qa.testscripts.ThisWeekInDigitalTest"></class>
+			<class name="com.atmecs.qa.testscripts.WebinarsTest"></class>
+		</classes>
+	</test> 
+</suite>
+	
+	
+	
+ 
